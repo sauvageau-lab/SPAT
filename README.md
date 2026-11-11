@@ -16,6 +16,11 @@ jean-francois.spinella@umontreal.ca
 ### Last update:
 SPAT v3.4 - Jan. 2023
 
+### Citation:
+Bordeleau ME, Audemard E, Metois A, Theret L, Lisi V, Farah A, Spinella JF, et al.
+Immunotherapeutic targeting of surfaceome heterogeneity in AML.
+*Cell Reports* 43, 114260 (2024). https://doi.org/10.1016/j.celrep.2024.114260
+
 ### License:
 MIT - see [LICENSE](LICENSE)
 
