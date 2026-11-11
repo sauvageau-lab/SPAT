@@ -1,4 +1,9 @@
 #!/usr/bin/perl
+#
+# SPAT - Surface Protein Annotation Tool
+# Copyright (c) 2023 Jean-François Spinella
+# Released under the MIT License; see the LICENSE file.
+#
 use strict;
 use warnings;
 use Getopt::Long;

@@ -15,3 +15,8 @@ jean-francois.spinella@umontreal.ca
 
 ### Last update:
 SPAT v3.4 - Jan. 2023
+
+### License:
+MIT - see [LICENSE](LICENSE)
+
+Copyright (c) 2023 Jean-François Spinella
